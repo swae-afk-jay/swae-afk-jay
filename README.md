@@ -64,8 +64,8 @@ I'm a versatile developer and hands-on tinkerer who loves bridging the gap betwe
 
 If you want to talk hardware debugging, prototype designs, software architecture, or simply collaborate on a cool open-source project, feel free to reach out!
 
-* **LinkedIn:** [linkedin.com/in/your-profile] www.linkedin.com/in/jayjaysprofile <!-- Update with your link -->
-* **Email:** [your.email@example.com]swaejayi0i@gmail.com <!-- Update with your email -->
+* **LinkedIn:** www.linkedin.com/in/jayjaysprofile <!-- Update with your link -->
+* **Email:** swaejayi0i@gmail.com <!-- Update with your email -->
 
 ---
 
